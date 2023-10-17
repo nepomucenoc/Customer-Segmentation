@@ -2,6 +2,7 @@
 Customer segmentation creates groups of people with the same characteristics. This is a better way to understand the needs and preferences of each customer, so this information is useful to better target those needs and preferences in order to increase the revenue of some companies.
 
 ![image](https://github.com/nepomucenoc/Customer-Segmentation/assets/72771264/a86e0324-bac3-4110-9cd9-78830fb1cb8c)
+
 Abstract vector created by vectorjuice - www.freepik.com
 
 **Overview of the dataset:**
